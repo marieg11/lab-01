@@ -7,7 +7,7 @@
 
 ## References and Resources
 
-Textbook.
+`N/A`
 
 ## Verbal Collaboration
 
