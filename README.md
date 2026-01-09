@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** Marie Gateka
-- **CCID:** reinemar
+- **Full Name:** `Marie Gateka`
+- **CCID:** `reinemar`
 
 ## References and Resources
 
